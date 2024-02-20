@@ -39,6 +39,9 @@ try:
             f.logging.error(f"Ошибка: {e}")
     elif command == '2':
       bank.registration()
+    elif command == '3':
+      print("\n--Спасибо!--\n")
+      break
     else:
       print("\n--ОШИБКА ВВОДА--")
 except Exception as e:
