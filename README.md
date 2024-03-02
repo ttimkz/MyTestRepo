@@ -3,10 +3,16 @@ Simple Django Blog
 This is a basic Django blog project for beginners.
 Installation
 
-    Clone the repository: git clone https://github.com/your_username/your_repository.git
-    Navigate to the project directory: cd your_repository
-    Install the required dependencies: pip install -r requirements.txt
-    Apply migrations to create the database schema: python manage.py migrate
+Clone the repository:
+
+    git clone https://github.com/your_username/your_repository.git
+ Navigate to the project directory: 
+ 
+     cd your_repository
+Install the required dependencies: 
+
+    pip install -r requirements.txt
+Apply migrations to create the database schema: python manage.py migrate
 
 Usage
 
