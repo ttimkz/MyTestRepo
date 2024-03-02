@@ -1,6 +1,6 @@
-Simple Django Blog
+Simple Django
 
-This is a basic Django blog project for beginners.
+This is a basic Django project for beginners.
 Installation
 
 Clone the repository:
